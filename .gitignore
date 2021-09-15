@@ -6,3 +6,4 @@
 
 # Misc.
 .env
+package-lock.json
