@@ -1,0 +1,8 @@
+# Dependencies
+/node_modules
+
+# IDEs and editors
+.idea/*
+
+# Misc.
+.env
